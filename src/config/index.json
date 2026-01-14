@@ -1,0 +1,148 @@
+{
+  "company": {
+    "name": "zCORE",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Produto",
+      "href": "product"
+    },
+    {
+      "name": "Recursos",
+      "href": "features"
+    },
+    {
+      "name": "Contato",
+      "href": "contact"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Soluções digitais sendo versátil.",
+    "subtitle": "Isso é zCORE.",
+    "description": "A zCORE desenvolve soluções digitais sob medida, com foco em performance, escalabilidade e eficiência para impulsionar resultados reais.",
+    "img": "/assets/images/hero.png",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Simplicidade, confiança e performance",
+    "items": [
+      {
+        "title": "Vamos inovar!",
+        "description": "Abrimos um mundo de possibilidades com inovação constante, criando soluções modernas que transformam ideias em tecnologia real e impulsionam o crescimento do seu negócio.",
+        "img": "/assets/images/product1.png"
+      },
+      {
+        "title": "Transparência na criação!",
+        "description": "Nos comunicamos constantemente com o cliente em cada etapa do projeto, garantindo alinhamento total para aplicar soluções sob medida com transparência, agilidade e foco.",
+        "img": "/assets/images/product2.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Tecnologia",
+    "subtitle": "Usamos o que existe de melhor",
+    "description": "Trabalhamos com as melhores tecnologias do mercado, escolhendo sempre o stack ideal para cada projeto. Isso garante sistemas mais rápidos, seguros, escaláveis e fáceis de evoluir.",
+    "items": [
+      {
+        "name": "Aplicativo",
+        "description": "Nossos produtos são sempre estruturados para o formato de aplicativos.",
+        "icon": "/assets/images/mobile.png"
+      },
+      {
+        "name": "Cloud",
+        "description": "Infraestrutura em cloud para garantir escalabilidade, segurança e alta disponibilidade.",
+        "icon": "/assets/images/cloud.png"
+      },
+      {
+        "name": "Autenticação Apple e Google",
+        "description": "Autenticação simplificada com Apple e Google para mais segurança e conveniência.",
+        "icon": "/assets/images/applegoogle.png"
+      },
+      {
+        "name": "IA",
+        "description": "Usamos Inteligência Artificial para otimizar operações, reduzir custos e aumentar produtividade.",
+        "icon": "/assets/images/ia.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
