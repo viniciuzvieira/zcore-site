@@ -1,9 +1,16 @@
-import { AppProps } from 'next/app';
+import type { AppProps } from 'next/app';
+import Head from 'next/head';
 
 import '../styles/main.css';
 
 const MyApp = ({ Component, pageProps }: AppProps) => (
-  <Component {...pageProps} />
+  <>
+    <Head>
+      <title>zCORE</title>
+    </Head>
+
+    <Component {...pageProps} />
+  </>
 );
 
 export default MyApp;
