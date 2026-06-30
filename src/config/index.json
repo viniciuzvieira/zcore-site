@@ -23,6 +23,7 @@
   },
   "mainHero": {
     "title": "Soluções inteligentes sendo versátil.",
+    "titleLines": ["Soluções inteligentes", "sendo versátil."],
     "subtitle": "Isso é zCORE.",
     "description": "A zCORE desenvolve soluções inteligentes sob medida, com foco em performance, escalabilidade e eficiência para impulsionar resultados reais.",
     "img": "/assets/images/hero.png",
