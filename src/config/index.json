@@ -22,9 +22,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Soluções digitais sendo versátil.",
+    "title": "Soluções inteligentes sendo versátil.",
     "subtitle": "Isso é zCORE.",
-    "description": "A zCORE desenvolve soluções digitais sob medida, com foco em performance, escalabilidade e eficiência para impulsionar resultados reais.",
+    "description": "A zCORE desenvolve soluções inteligentes sob medida, com foco em performance, escalabilidade e eficiência para impulsionar resultados reais.",
     "img": "/assets/images/hero.png",
     "primaryAction": {
       "text": "Get started",
@@ -73,7 +73,7 @@
       {
         "name": "IA",
         "description": "Usamos Inteligência Artificial para otimizar operações, reduzir custos e aumentar produtividade.",
-        "icon": "/assets/images/ia.png"
+        "icon": "/assets/images/IA.png"
       }
     ]
   },
